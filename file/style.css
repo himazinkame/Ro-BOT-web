@@ -87,3 +87,13 @@ img {
 #home .page-title {
     text-transform: none;
 }
+/* NEWS
+------------------------------- */
+#news {
+    background-image: url(https://cdn.discordapp.com/attachments/822729690879754244/858604004648157184/hh.png);
+    height: 270px;
+    margin-bottom: 40px;
+}
+#news .page-title {
+    text-align: center;
+}
